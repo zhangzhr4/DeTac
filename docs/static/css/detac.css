@@ -46,3 +46,5 @@ main .citation-heading .title.is-3{margin-bottom:0!important}
 .institution-logos{display:flex;align-items:center;justify-content:center;gap:2.5rem;max-width:800px;margin:1.6rem auto 1.2rem}.institution-logos img{display:block;width:auto;height:64px;max-width:31%;object-fit:contain}.institution-logos img:nth-child(2){height:70px}@media(max-width:600px){.institution-logos{gap:1rem;margin:1.25rem auto}.institution-logos img{height:auto;max-width:31%;max-height:50px}.institution-logos img:nth-child(2){height:auto;width:25%}}
 
 .project-video{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;border-radius:12px;background:#0f172a}.project-video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}.video-fallback{text-align:center;margin:.65rem 0 0;font-size:.9rem}
+
+.result-video{display:block;width:100%;height:auto;border-radius:10px;background:#000}
