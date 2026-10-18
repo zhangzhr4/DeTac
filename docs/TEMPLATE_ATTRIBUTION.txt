@@ -1,0 +1,4 @@
+Adapted from https://github.com/eliahuhorwitz/Academic-project-page-template
+Original CSS retained in dist/static/css/index.css and bulma.min.css.
+Template: Creative Commons Attribution-ShareAlike 4.0, https://creativecommons.org/licenses/by-sa/4.0/
+This notice covers the website template, not the research paper and figures.
