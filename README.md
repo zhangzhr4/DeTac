@@ -6,6 +6,8 @@ Zhirui Zhang, Yunkai Tang, Jiahang Li, Fan Fei, Jinnuo Zhang, Kairan Ding, Jieji
 
 Conference on Robot Learning (CoRL), 2026 — **Spotlight**
 
+[Project Page](https://zhangzhr4.github.io/DeTac/) | [Paper](https://arxiv.org/abs/2610.16463) | [Code](https://github.com/zhangzhr4/DeTac) | [Dataset](https://drive.google.com/drive/folders/1b3sS9jP2fdjtvAYCslPzPfazlREPQaSC?usp=sharing)
+
 DeTac recovers a clean shading image and a marker image from a single mixed tactile observation. This repository provides the training and inference code for our method.
 
 ## Installation
