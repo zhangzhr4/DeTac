@@ -1,0 +1,28 @@
+# Datasets and generated artifacts
+/data/
+/outputs/
+/checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.zip
+*.tar
+*.tar.gz
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Local configuration and editor files
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+*.log
